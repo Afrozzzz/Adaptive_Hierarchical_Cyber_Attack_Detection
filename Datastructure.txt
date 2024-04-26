@@ -1,6 +1,6 @@
 Adaptive Hierarchical Cyber Attack Detection and Localization in Active Distribution Systems
 
-IEEE Transactions on Smart Grid,Volume:13,Issue:3,Issue Date:May.2022
+
 
 
 cyber attack localization, adaptive, hierarchical,online, distribution networks
